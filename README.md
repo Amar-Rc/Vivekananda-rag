@@ -20,7 +20,7 @@ This project provides a Retrieval-Augmented Generation (RAG) system to answer qu
 
 ```bash
 git clone <repository-url>
-cd Vivekananda-rag
+cd philosophy-rag
 ```
 
 ### 2. Download the Data
